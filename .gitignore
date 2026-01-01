@@ -1,0 +1,13 @@
+# 1. Security (Sabse Important)
+.env
+
+# 2. System & Python Junk
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+
+# 3. Files you want to ignore specifically
+clean_audio.py
+check_models.py
+google_generativeai-0.8.6-py3-none-any.whl
