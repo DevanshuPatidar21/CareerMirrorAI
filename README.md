@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack
 
 - **Frontend:** Streamlit (Python)
-- **LLM / AI:** - Google Gemini 1.5 Flash (Reasoning & Analysis)
+- **LLM / AI:** - Google Gemini 2.5 Flash (Reasoning & Analysis)
   - Groq Llama-3 (Fast Conversational Agents)
 - **Computer Vision:** OpenCV, MediaPipe (Body Language Analysis)
 - **Audio Processing:** SpeechRecognition (STT), PyTTSx3 (TTS)
